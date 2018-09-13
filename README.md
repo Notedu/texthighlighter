@@ -1,3 +1,6 @@
+## This repos forked from [mir3z/texthighlighter](https://github.com/mir3z/texthighlighter) to use in Notedu Reader.
+## bower is removed.
+
 ##<center>This repository is no longer maintained!</center> 
 
 # TextHighlighter
