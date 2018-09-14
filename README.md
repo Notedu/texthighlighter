@@ -1,19 +1,10 @@
-## This repos forked from [mir3z/texthighlighter](https://github.com/mir3z/texthighlighter) to use in Notedu Reader.
-## bower is removed.
-
-##<center>This repository is no longer maintained!</center> 
+### This repos forked from [mir3z/texthighlighter](https://github.com/mir3z/texthighlighter) to use in Notedu Reader
 
 # TextHighlighter
 
 TextHighlighter allows you to highlight text on web pages. Just select it!
 
 ## Getting started
-
-Download TextHighlighter directly from GitHub or install with Bower:
-
-```
-$ bower install text-highlighter
-```
 
 Add script file to head section of your web page:
 
